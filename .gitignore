@@ -1,0 +1,9 @@
+dist/
+
+# IDEs
+.idea
+.project
+.vscode
+
+# OS
+.DS_Store
